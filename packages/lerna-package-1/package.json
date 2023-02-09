@@ -31,5 +31,6 @@
   "dependencies": {
     "@zxy-test/lerna-package-1": "^0.0.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "33c4adc24af393db5211f97b802b6be9574f84c3"
 }
