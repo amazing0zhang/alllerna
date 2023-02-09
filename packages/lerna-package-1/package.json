@@ -1,6 +1,6 @@
 {
   "name": "@zxy-test/lerna-package-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "amazing0zhang <849472558@qq.com>",
   "homepage": "https://github.com/amazing0zhang/alllerna#readme",
@@ -29,7 +29,7 @@
     "url": "https://github.com/amazing0zhang/alllerna/issues"
   },
   "dependencies": {
-    "@zxy-test/lerna-package-1": "^0.0.1",
+    "@zxy-test/lerna-package-1": "^0.0.2",
     "lodash": "^4.17.21"
   },
   "gitHead": "33c4adc24af393db5211f97b802b6be9574f84c3"
