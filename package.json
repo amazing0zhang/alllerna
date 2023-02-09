@@ -1,0 +1,20 @@
+{
+  "name": "alllerna",
+  "version": "1.0.0",
+  "private": true,
+  
+  "main": "index.js",
+  "repository": "https://github.com/amazing0zhang/alllerna.git",
+  "author": "amazing0zhang <849472558@qq.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "node ./lib/lerna-package-3.js"
+  }
+}
