@@ -1,6 +1,6 @@
 {
   "name": "@zxy-test/lerna-package-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "amazing0zhang <849472558@qq.com>",
   "homepage": "https://github.com/amazing0zhang/alllerna#readme",
@@ -15,7 +15,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/" 
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -25,12 +25,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "node ./lib/lerna-package-3.js"
   },
-
   "bugs": {
     "url": "https://github.com/amazing0zhang/alllerna/issues"
   },
   "dependencies": {
-    "@zxy-test/lerna-package-1": "0.0.0",
+    "@zxy-test/lerna-package-1": "^0.0.1",
     "lodash": "^4.17.21"
   }
 }
